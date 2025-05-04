@@ -9,8 +9,8 @@ AI Marketplace is a curated hub where developers can list their ready-to-use AI 
 ## Key Features
 
 - *Two User Journeys*:
-  - 🧠 Professionals: Access AI tools for marketing, finance, law, data science, etc.
-  - 🎯 Everyone: Explore general-purpose tools like AI image generators, chatbots, productivity bots, etc.
+  - Professionals: Access AI tools for marketing, finance, law, data science, etc.
+  - Everyone: Explore general-purpose tools like AI image generators, chatbots, productivity bots, etc.
 
 - *Developer-Hosted Model*: Developers host their tools and manage performance; we handle discovery, payments, and analytics.
 
